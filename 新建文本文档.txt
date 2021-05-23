@@ -1,0 +1,17 @@
+NLP、ML/DL模型学习数据
+
+http://www.cnsoftbei.com/
+http://www.cnsoftbei.com/
+
+http://www.cnsoftbei.com/plus/view.php?aid=580
+
+https://py.forchangecode.com/?app_id=17&app_type=formal#/scene/%2F%E4%B8%89%E6%AE%B5%E8%AF%BE%2F%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90jupyter%2F%E5%85%B3%E5%8D%A1%E4%BA%8C%2F%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF_%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%902
+
+
+from matplotlib import pyplot as plt
+plt.rcParams['font.family'] = ['Source Han Sans CN']
+
+
+https://zhuanlan.zhihu.com/p/137890486 //知乎用Python写word
+
+https://py.forchangecode.com/?app_id=17&app_type=formal#/scene/%2F%E4%B8%89%E6%AE%B5%E8%AF%BE%2F%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90jupyter%2F%E5%85%B3%E5%8D%A1%E5%85%AD%2F%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF_%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%962               //柱状图 样式 
